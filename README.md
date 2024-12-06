@@ -1,4 +1,4 @@
-# **Data Science
+# Data Science
 
 This repository corresponds to my portfolio of data This repository corresponds to my portfolio of data science projects using machine learning tools, Python, and PySpark.
 
