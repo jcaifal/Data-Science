@@ -15,3 +15,5 @@ This portfolio not only reflects my technical expertise but also my ability to c
 
 ## Projects
 [Customer Churn](https://github.com/jcaifal/Data-Science/blob/main/CustomerChurn.ipynb).
+
+[Segmentación de Clientes](https://github.com/jcaifal/Data-Science/blob/main/SegmentacionClientes.ipynb).
